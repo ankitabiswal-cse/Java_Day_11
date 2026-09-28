@@ -4,7 +4,7 @@ class Person{
     }
 }
 
-class Student extends Person{
+class Student extends Person {
     void teach(){
         System.out.println("Student is Teaching");
     }

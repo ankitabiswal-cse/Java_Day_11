@@ -3,7 +3,7 @@ class Shape{
         System.out.println("This Is A Shape");
     }
 }
-class Circle extends Shape{
+class Circle extends Shape {
     void circle(){
         System.out.println("This Is A Circle");
     }
